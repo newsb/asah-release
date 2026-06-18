@@ -9,7 +9,7 @@ https://shasa-tool.quickconnect.cn/d/s/18fwhi9wm2BXibaCv4v1oihJyfbggg4m/XMw0mHoZ
 V1.1安装包：
  https://shasa-tool.quickconnect.cn/d/s/18aCCSuqprSXlAh1Jb15cemhThEunTM9/H2vDzCmHNd1fykTxjKBFgllAHFZrrPLP-87vA67adQg0
 
-V1.1安装包 SHA-256： `d41d9f37081684ae8e6b6796e21f73dd7bff52e9a1ade4eed7c1932a24d9102d`
+V1.1安装包 SHA-256： `2fa13005ac05b0b4b332b054ecd34c9d1815dab9cf92ff70c2121329e1dce889`
 
 ---
 
